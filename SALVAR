@@ -19,3 +19,9 @@ number = int(input("Digite um numero:"))
 number2 = int(input("Digite um numero:"))
 
 print(number+number2)
+
+number3 =()
+number4 =()
+number3 = int(input("Digite um numero:"))
+number4 = int(input("Digite um numero:"))
+print(number3*number4)
